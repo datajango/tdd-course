@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+asyncpg
+tortoise-orm
+aerich
+pytest==6.2.4
+requests==2.25.1
